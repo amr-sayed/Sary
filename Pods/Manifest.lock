@@ -1,0 +1,26 @@
+PODS:
+  - AlertToast (1.3.0)
+  - SDWebImage (5.11.1):
+    - SDWebImage/Core (= 5.11.1)
+  - SDWebImage/Core (5.11.1)
+  - SDWebImageSwiftUI (2.0.2):
+    - SDWebImage (~> 5.10)
+
+DEPENDENCIES:
+  - AlertToast
+  - SDWebImageSwiftUI
+
+SPEC REPOS:
+  trunk:
+    - AlertToast
+    - SDWebImage
+    - SDWebImageSwiftUI
+
+SPEC CHECKSUMS:
+  AlertToast: e5598c9f0e0e049b7b5b0d434cd75ee7150ca11c
+  SDWebImage: a7f831e1a65eb5e285e3fb046a23fcfbf08e696d
+  SDWebImageSwiftUI: 8a3923c95108312b03a599ec1498754af55a6819
+
+PODFILE CHECKSUM: 9f8166a49c0113ecc96c37d4c7a65c74bbd2d429
+
+COCOAPODS: 1.10.2
