@@ -11,7 +11,7 @@
 ## Screenshots
 <p float = "left">
 <img src="https://raw.githubusercontent.com/amr-sayed/Sary/master/.github:images/File3.jpg" width="200" alt="sample1">
-<img src="https://raw.githubusercontent.com/amr-sayed/Sary/master/.github:images/File2" width="200" alt="sample2">
-<img src="https://raw.githubusercontent.com/amr-sayed/Sary/master/.github:images/File1" width="200" alt="sample3">
+<img src="https://raw.githubusercontent.com/amr-sayed/Sary/master/.github:images/File2.jpg" width="200" alt="sample2">
+<img src="https://raw.githubusercontent.com/amr-sayed/Sary/master/.github:images/File1.jpg" width="200" alt="sample3">
 
 </p>
